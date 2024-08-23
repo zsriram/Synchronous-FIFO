@@ -1,3 +1,4 @@
+# Synchronous FIFO
 Designed and Implemented a Synchronous FIFO in ModelSim
 
 This buffer works on a single clock period (synchronous). The read and write pointers are internally handled and either a full or empty flag is raised depending on the whether the buffer is full or empty.
